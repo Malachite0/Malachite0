@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Malachite0
 - 👀 I’m interested in Volleybal, gaming and coding
 - 🌱 I’m currently learning coding im pretty new to it
-- 📫 How to reach me send me a msg
 
 <!---
 Malachite0/Malachite0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
