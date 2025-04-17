@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Back-end development**
 
-- 💬 Ask me about **css, styling, ux ui**
+- 💬 Ask me about **css, styling, UX UI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
