@@ -18,7 +18,7 @@
 🌱 Currently learning: Lua, Laravel & just messing around with whatever looks cool  
 💬 Ask me about: front-end design, UI/UX, web dev or game dev  
 🤝 I love working with people from other fields — devs, designers, artists, anyone  
-🎸 Also: I play bass, listen to way too much music & game with friends  
+🎸 Also: I play bass, love listening to music & gaming with friends  
 
 </p>
 
