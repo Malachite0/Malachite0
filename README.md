@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **css, ui ux, styling, php crud**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
