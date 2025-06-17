@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm working on: school projects, a Wynncraft trading platform & my Discord bot  <br>- 🌱 Currently learning: Lua, Laravel & just messing around with whatever looks cool  <br>- 💬 Ask me about: front-end design, UI/UX, web dev or game dev  <br>- 🤝 I love working with people from other fields — devs, designers, artists, anyone  <br>- 🎸 Also: I play bass, love listening to music and gaming with friends</p>
+<p align="center">- 🔭 I'm working on: school projects, a Wynncraft trading platform & my Discord bot  <br>- 🌱 Currently learning: Lua, Laravel & just messing around with whatever looks cool  <br>- 💬 Ask me about: front-end design, UI/UX, web dev or game dev  <br>- 🤝 I love working with people from other fields — devs, designers, artists, anyone  <br>- 🎸 Also: I play bass, love listening to music and gaming with friends</p>
 
 ###
 
