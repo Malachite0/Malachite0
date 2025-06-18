@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Malachite0/count.svg?"  />
+![Visitor Count](https://profile-counter.glitch.me/malachite0/count.svg)
 </div>
 
 ###
