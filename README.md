@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/malachite0/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
