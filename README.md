@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-![Visitor Count](https://profile-counter.glitch.me/malachite0/count.svg)
-</div>
+
 
 ###
 
